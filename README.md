@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="left">
+   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <br>
+  <h3><a href="https://github.com/Wecle">Wecle</a></h3>
+  <h4>Coding / Game / Anime</h4>
+  <h4>Front Development</h4>
+  <br>
+  <br>
+</div>
 
-<!--
-**Wecle/Wecle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind)]()
 
-Here are some ideas to get you started:
+<div align="left">
+  <br>
+  <h3>Where you can find me 👇</h3>
+  <br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](zyx19981379@gmail.com)
+[![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/Wecle_xxx)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/invite/HbdXQNQj)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/wecle_xxx)
+
