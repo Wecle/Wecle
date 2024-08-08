@@ -3,7 +3,7 @@
   <br>
   <h3><a href="https://github.com/Wecle">Wecle</a></h3>
    <h4>Front Development</h4>
-  <h4>Love Coding / Game / Anime</h4>
+  <h4>Love Coding / Game / Anime / Music / Cat</h4>
   <br>
   <br>
 </div>
