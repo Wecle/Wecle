@@ -1,7 +1,11 @@
 <div align="left">
    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <br>
-  <h3><a href="https://github.com/Wecle">Wecle</a></h3>
+</div>
+
+![Coding For Fun](https://glitch-art.vercel.app/api/simple?word=<Wecle%20/>)
+
+<div align="left">
    <h4>Front Development</h4>
   <h4>Love Coding / Game / Anime / Music / Cat</h4>
   <br>
